@@ -1,4 +1,6 @@
-![BewlyBewly](https://cdn.jsdelivr.net/gh/BewlyBewly/Imgs/logos/bewlybewly-vtuber-logo.png)
+<!-- ![BewlyBewly](https://cdn.jsdelivr.net/gh/BewlyBewly/Imgs/logos/bewlybewly-vtuber-logo.png) -->
+![BewlyBewly](https://github.com/user-attachments/assets/a660ebeb-b8cc-4143-a210-f26a75ae6072)
+
 <!-- ## Hi there 👋 -->
 
 <!--
